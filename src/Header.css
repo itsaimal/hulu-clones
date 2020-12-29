@@ -57,4 +57,5 @@
 .header > img {
     object-fit: contain;
     height: 80px;
+    margin-top: 5px;
 }
